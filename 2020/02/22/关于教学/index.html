@@ -59,7 +59,7 @@
         <span class="post-meta-item-icon">
             <i class="ri-quill-pen-line"></i>
             <span class="post-meta-item-text"> 字数统计:</span>
-            <span class="post-count">308字</span>
+            <span class="post-count">304字</span>
         </span>
     </span>
 
@@ -79,8 +79,6 @@
 
     
     
-    <div class="tocbot"></div>
-
 
 
 
@@ -95,7 +93,7 @@
       
 
       
-      <h1 id="关于教学"><a href="#关于教学" class="headerlink" title="关于教学"></a>关于教学</h1><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br></pre></td><td class="code"><pre><span class="line">教育的本质就是一棵树摇动另一棵树，</span><br><span class="line">一朵云推动另一朵云，</span><br><span class="line">一个灵魂召唤另一个灵魂。</span><br><span class="line">它没有声响，</span><br><span class="line">它只是让走在前面的人，</span><br><span class="line">做好自己的事，</span><br><span class="line">走好自己的路，</span><br><span class="line">然后，</span><br><span class="line">任由改变自然发生。</span><br></pre></td></tr></table></figure>
+      <figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br></pre></td><td class="code"><pre><span class="line">教育的本质就是一棵树摇动另一棵树，</span><br><span class="line">一朵云推动另一朵云，</span><br><span class="line">一个灵魂召唤另一个灵魂。</span><br><span class="line">它没有声响，</span><br><span class="line">它只是让走在前面的人，</span><br><span class="line">做好自己的事，</span><br><span class="line">走好自己的路，</span><br><span class="line">然后，</span><br><span class="line">任由改变自然发生。</span><br></pre></td></tr></table></figure>
 
 <ul>
 <li><p>在面对任何问题时，假设自己是一名普通学生，先顺着学生的思路，尝试用他们能看懂的推理过程，一步步推导出背后的解题思路；而不是直接告诉学生，最高效、最漂亮的解题公式是什么。</p>
@@ -281,15 +279,10 @@
     <ul class="list-inline">
       <li>
         &copy;
-        2015-2020
+        2020
         arlose
       </li>
       <li>
-        
-          Powered by
-        
-        
-        <a href="https://hexo.io" target="_blank">Hexo</a> Theme <a href="https://github.com/Shen-Yu/hexo-theme-ayer" target="_blank">Ayer</a>
         
       </li>
     </ul>
@@ -345,15 +338,7 @@
     </li>
     
     <li class="nav-item">
-      <a class="nav-item-link" href="/tags/%E6%97%85%E8%A1%8C/">旅行</a>
-    </li>
-    
-    <li class="nav-item">
-      <a class="nav-item-link" href="http://shenyu-vip.lofter.com" target="_blank" rel="noopener">摄影</a>
-    </li>
-    
-    <li class="nav-item">
-      <a class="nav-item-link" href="/2019/about">关于我</a>
+      <a class="nav-item-link" href="/about">关于我</a>
     </li>
     
   </ul>
@@ -366,10 +351,6 @@
         <i class="ri-search-line"></i>
       </a>
       
-      
-      <a class="nav-item-link" target="_blank" href="/atom.xml" title="RSS Feed">
-        <i class="ri-rss-line"></i>
-      </a>
       
     </li>
   </ul>
@@ -427,7 +408,7 @@
 <script>
   try {
     var typed = new Typed("#subtitle", {
-    strings: ['面朝大海，春暖花开','愿你一生努力，一生被爱','想要的都拥有，得不到的都释怀'],
+    strings: ['怕什么真理无穷，进一寸有进一寸的欢喜','种一棵树最好的时间是十年前，其次是现在','认清事实，脚踏实地，不要心存侥幸与妄念'],
     startDelay: 0,
     typeSpeed: 200,
     loop: true,
@@ -468,7 +449,7 @@
 
 <script>
   var ayerConfig = {
-    mathjax: false
+    mathjax: true
   }
 </script>
 
@@ -588,6 +569,25 @@
 </script>
 
 
+
+<script type="text/x-mathjax-config">
+  MathJax.Hub.Config({
+      tex2jax: {
+          inlineMath: [ ['$','$'], ["\\(","\\)"]  ],
+          processEscapes: true,
+          skipTags: ['script', 'noscript', 'style', 'textarea', 'pre', 'code']
+      }
+  });
+
+  MathJax.Hub.Queue(function() {
+      var all = MathJax.Hub.getAllJax(), i;
+      for(i=0; i < all.length; i += 1) {
+          all[i].SourceElement().parentNode.className += ' has-jax';
+      }
+  });
+</script>
+
+<script src="https://cdn.jsdelivr.net/npm/mathjax@2.7.6/unpacked/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
 
 
 <script type="text/javascript" src="https://js.users.51.la/20544303.js"></script>
