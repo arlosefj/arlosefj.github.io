@@ -1,21 +1,315 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>Hello World</title>
-    <url>/2020/02/22/hello-world/</url>
-    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure>
+    <title>2020-01-01-learning</title>
+    <url>/2020/02/22/2020-01-01-learning/</url>
+    <content><![CDATA[<h1 id="关于学习"><a href="#关于学习" class="headerlink" title="关于学习"></a>关于学习</h1><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">Study as if you were to live forever,</span><br><span class="line">Live as if you were to die tomorrow.</span><br></pre></td></tr></table></figure>
 
-<p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Deployment</a></p>
+<ul>
+<li><p>怕什么真理无穷，进一寸有进一寸的欢喜</p>
+</li>
+<li><p>有目的的去学习，有意识的去应用，避免低水平勤奋陷阱。</p>
+</li>
+<li><p>教是最好的学</p>
+</li>
+<li><p>保持谦卑与开放</p>
+</li>
+<li><p>系统的学习才能事半功倍</p>
+</li>
+<li><p>从 Userguide 开始，从基础做起，慢就是快</p>
+</li>
+<li><p>如何正确的提问？</p>
+</li>
+</ul>
+<blockquote>
+<blockquote>
+<p>猜想——反驳——缩小范围——猜想——反驳……不断接近答案</p>
+</blockquote>
+</blockquote>
 ]]></content>
+  </entry>
+  <entry>
+    <title>2020-01-01-mind</title>
+    <url>/2020/02/22/2020-01-01-mind/</url>
+    <content><![CDATA[<h1 id="关于心理与思考"><a href="#关于心理与思考" class="headerlink" title="关于心理与思考"></a>关于心理与思考</h1><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">God, </span><br><span class="line">grant me the serenity to accept the things I cannot change, </span><br><span class="line">courage to the things I can, </span><br><span class="line">and wisdom to know the difference.</span><br></pre></td></tr></table></figure>
+
+<ul>
+<li><p>我们讲话，不只是要告诉别人我们想的是什么，而是要告诉自己我们想要的是什么</p>
+</li>
+<li><p>你是一切问题的根源</p>
+</li>
+<li><p>挑剔他人容易，正视自己最难。</p>
+</li>
+<li><p>什么是妄念？</p>
+</li>
+</ul>
+<blockquote>
+<blockquote>
+<p>奢望不可能发生的</p>
+</blockquote>
+</blockquote>
+<blockquote>
+<blockquote>
+<p>过早的想要得到未来要得到的</p>
+</blockquote>
+</blockquote>
+<ul>
+<li>鱼问：水是什么？</li>
+</ul>
+<blockquote>
+<blockquote>
+<p>最明显，最普通，最重要的关系，往往是最难发现，也最容易忽视的。</p>
+</blockquote>
+</blockquote>
+]]></content>
+  </entry>
+  <entry>
+    <title>2020-01-01-target</title>
+    <url>/2020/02/22/2020-01-01-target/</url>
+    <content><![CDATA[<h1 id="关于目标"><a href="#关于目标" class="headerlink" title="关于目标"></a>关于目标</h1><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">Something Bigger Than Yourself!</span><br></pre></td></tr></table></figure>
+
+<ul>
+<li>志于道，据于德，依于仁，游于艺</li>
+</ul>
+]]></content>
+  </entry>
+  <entry>
+    <title>2020-01-03-time</title>
+    <url>/2020/02/22/2020-01-03-time/</url>
+    <content><![CDATA[<h1 id="关于时间管理"><a href="#关于时间管理" class="headerlink" title="关于时间管理"></a>关于时间管理</h1><ul>
+<li><p>时间不可管理，时间一直在流逝。时间管理其实是自我管理</p>
+</li>
+<li><p>事情的三个维度：重要性，紧急性，意义</p>
+</li>
+<li><p>从意义的角度去对待任务。根据意义做减法。人生就是一个不断拒绝的过程。</p>
+</li>
+<li><p>如果能自动化，就花点时间自动化。自动化对时间的意义，相当于复利对财富的意义。</p>
+</li>
+<li><p>如果这件事情别人可以做，就让别人做，即使他现在做得不如你好。</p>
+</li>
+<li><p>如果要做，就马上专注的高效去做</p>
+</li>
+<li><p>忙碌和高效之间差别巨大：忙碌=做很多事；高效=以尽可能好的方式做最重要的事。忙碌会蒙蔽你，让你以为自己在进步，但实际上高效才会真正推动你前进。</p>
+</li>
+</ul>
+]]></content>
+  </entry>
+  <entry>
+    <title>2020-01-01-grow</title>
+    <url>/2020/02/22/2020-01-01-grow/</url>
+    <content><![CDATA[<h1 id="关于成长与处世"><a href="#关于成长与处世" class="headerlink" title="关于成长与处世"></a>关于成长与处世</h1><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">日三省身，未经审查的人生不值得过</span><br></pre></td></tr></table></figure>
+
+<ul>
+<li><p>给予大于接受，做个温暖发光的人</p>
+</li>
+<li><p>对待焦虑。可以有欲望，但要放下妄念。</p>
+</li>
+<li><p>失败的意义不在于失败的原因和结果，而在于失败给你的教训，你从中获得了什么</p>
+</li>
+</ul>
+<blockquote>
+<blockquote>
+<p>“如果你因失去太阳而落泪，那么你也将错过群星” —《飞鸟集》</p>
+</blockquote>
+</blockquote>
+<ul>
+<li><p>人的努力没有上限，不要让自己处于舒适区，不断挑战自己才能真正成长</p>
+</li>
+<li><p>去甚，去奢， 去泰（不走极端，不复杂，不过度）</p>
+</li>
+<li><p>远离疯狂人群与噪音</p>
+</li>
+<li><p>对生活怀有感恩之心</p>
+</li>
+<li><p>谦虚戒躁</p>
+</li>
+<li><p>诚实对待自己</p>
+</li>
+<li><p>凡是过往，皆为序章</p>
+</li>
+</ul>
+]]></content>
+  </entry>
+  <entry>
+    <title>2020-01-01-practice</title>
+    <url>/2020/02/22/2020-01-01-practice/</url>
+    <content><![CDATA[<h1 id="关于行动"><a href="#关于行动" class="headerlink" title="关于行动"></a>关于行动</h1><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">行远自迩，登高自卑 ---《中庸》</span><br></pre></td></tr></table></figure>
+
+<ul>
+<li><p>先开始，再完美</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">宏大的目标要分解成自己内心可以承受的小部分，10分钟哪怕5分钟都可以专注能做的小事</span><br><span class="line">排除能够干扰我们的其他可能</span><br><span class="line">做一些积极的主动都轻微改进可能会起到很好的效果</span><br></pre></td></tr></table></figure>
+</li>
+<li><p>你无法回到过去改变开头，但可以从现在开始改变结尾 —  C. S. Lewis</p>
+</li>
+<li><p>做事必有输出，做事必有输出，做事必有输出</p>
+</li>
+<li><p>种一棵树最好的时间是十年前，其次是现在</p>
+</li>
+<li><p>保护一个想法最好的办法就是将它快速实现</p>
+</li>
+<li><p>顺其自然不是两手一摊的不作为，而是竭尽全力后的不强求</p>
+</li>
+<li><p>问题不能由导致这个问题的思维方式解决</p>
+</li>
+<li><p>面对困难，如果必须克服它才能前进，除了克服它，别无他法，不可能绕过去。</p>
+</li>
+<li><p>像外行一样思考（不拘泥于成规），像专家一样实践（谨慎的验证猜想）</p>
+</li>
+</ul>
+<blockquote>
+<blockquote>
+<p>话说唐僧师徒四人到了火焰山，前面走不过去了，八戒问，为什么我们不朝没有火的地方走啊？唐僧反问，哪里没有火啊？八戒说，往东往北往南都没有火。唐僧又问，哪里有经呢？八戒说，往西。接下来答案不言而喻。</p>
+</blockquote>
+</blockquote>
+<ul>
+<li><p>清单管理（提醒，坚持，习惯，记录）</p>
+</li>
+<li><p>如何演讲</p>
+</li>
+</ul>
+<blockquote>
+<blockquote>
+<p>信息不是用来传递给人的，而是用来打动人的。—史蒂夫 乔布斯</p>
+</blockquote>
+</blockquote>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">三幕</span><br><span class="line">第一幕：起始，背景，现状，遇到的问题（引起兴趣）</span><br><span class="line">第二幕：如何解决，三个方面</span><br><span class="line">第三幕：结尾，解决的效果</span><br></pre></td></tr></table></figure>
+]]></content>
+  </entry>
+  <entry>
+    <title>2020-01-8-logic</title>
+    <url>/2020/02/22/2020-01-8-logic/</url>
+    <content><![CDATA[<h1 id="2020-逻辑，批判性思维读书计划"><a href="#2020-逻辑，批判性思维读书计划" class="headerlink" title="2020 逻辑，批判性思维读书计划"></a>2020 逻辑，批判性思维读书计划</h1><h2 id="《简单的逻辑学》-美-D-Q-麦克伦尼"><a href="#《简单的逻辑学》-美-D-Q-麦克伦尼" class="headerlink" title="《简单的逻辑学》[美] D.Q.麦克伦尼"></a>《简单的逻辑学》[美] D.Q.麦克伦尼</h2><h2 id="《逻辑学十五讲》"><a href="#《逻辑学十五讲》" class="headerlink" title="《逻辑学十五讲》"></a>《逻辑学十五讲》</h2><h2 id="《有用的逻辑学》"><a href="#《有用的逻辑学》" class="headerlink" title="《有用的逻辑学》"></a>《有用的逻辑学》</h2><h2 id="《逻辑学原来很有趣》"><a href="#《逻辑学原来很有趣》" class="headerlink" title="《逻辑学原来很有趣》"></a>《逻辑学原来很有趣》</h2><h2 id="《逻辑十九讲》"><a href="#《逻辑十九讲》" class="headerlink" title="《逻辑十九讲》"></a>《逻辑十九讲》</h2><h2 id="《简明逻辑学》"><a href="#《简明逻辑学》" class="headerlink" title="《简明逻辑学》"></a>《简明逻辑学》</h2><h2 id="《北大逻辑课》"><a href="#《北大逻辑课》" class="headerlink" title="《北大逻辑课》"></a>《北大逻辑课》</h2><h2 id="《批判性思维十讲：从探究实证到开放创造》"><a href="#《批判性思维十讲：从探究实证到开放创造》" class="headerlink" title="《批判性思维十讲：从探究实证到开放创造》"></a>《批判性思维十讲：从探究实证到开放创造》</h2><h2 id="《批判性思维工具》"><a href="#《批判性思维工具》" class="headerlink" title="《批判性思维工具》"></a>《批判性思维工具》</h2><h2 id="《超越感觉：批判性思考指南》"><a href="#《超越感觉：批判性思考指南》" class="headerlink" title="《超越感觉：批判性思考指南》"></a>《超越感觉：批判性思考指南》</h2>]]></content>
+  </entry>
+  <entry>
+    <title>2020-01-06-teach</title>
+    <url>/2020/02/22/2020-01-06-teach/</url>
+    <content><![CDATA[<h1 id="关于教学"><a href="#关于教学" class="headerlink" title="关于教学"></a>关于教学</h1><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">教育的本质就是一棵树摇动另一棵树，</span><br><span class="line">一朵云推动另一朵云，</span><br><span class="line">一个灵魂召唤另一个灵魂。</span><br><span class="line">它没有声响，</span><br><span class="line">它只是让走在前面的人，</span><br><span class="line">做好自己的事，</span><br><span class="line">走好自己的路，</span><br><span class="line">然后，</span><br><span class="line">任由改变自然发生。</span><br></pre></td></tr></table></figure>
+
+<ul>
+<li><p>在面对任何问题时，假设自己是一名普通学生，先顺着学生的思路，尝试用他们能看懂的推理过程，一步步推导出背后的解题思路；而不是直接告诉学生，最高效、最漂亮的解题公式是什么。</p>
+</li>
+<li><p>题目贵精，不在于多。善于从不同角度发掘问题的本质。</p>
+</li>
+<li><p>重要的是思考方式，是怎么想到的，为什么这么想，而不是直接给出答案。</p>
+</li>
+<li><p>不要给答案，要设计一条路，让学生走上去，自己找到答案。路上要有美丽的风景，可以观赏，可以走入岔路，但最终还要回来。</p>
+</li>
+<li><p>教育在于引导，如何提出问题，如何质疑，如何思考，如何动手，如何吸取教训，如何讲给他人</p>
+</li>
+<li><p>从实践的维度入手，从简单的最小成品开始</p>
+</li>
+</ul>
+]]></content>
+  </entry>
+  <entry>
+    <title>2020-01-01-read</title>
+    <url>/2020/02/22/2020-01-01-read/</url>
+    <content><![CDATA[<h1 id="2020书单"><a href="#2020书单" class="headerlink" title="2020书单"></a>2020书单</h1><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">不记录，不读书。</span><br><span class="line"></span><br><span class="line">输出比输入更重要</span><br><span class="line"></span><br><span class="line">略读步骤清单：</span><br><span class="line">这本书想帮助我解决什么问题，我对这个问题感兴趣吗，我怎么回答这个问题</span><br><span class="line">作者的观点是什么，提炼出三-四个关键词</span><br><span class="line">用自己的话对三个关键词进行总结，得出具体的行动步骤，有什么引发我思考的句子</span><br><span class="line"></span><br><span class="line">方法论类：形成行动步骤</span><br><span class="line">小说类：对自己的启发</span><br><span class="line">问题类：学习思考方式与论证方式，内化为自己的（记录自己的感受）</span><br><span class="line"></span><br><span class="line">一本书只读一页或几句话，给我们人生带来改变，那么一页的价值比一本书更重要</span><br></pre></td></tr></table></figure>
+
+<p>精读书</p>
+<ul>
+<li>《禅与摩托车维修艺术》</li>
+<li>《瓦尔登湖（中英文）》</li>
+<li>《超越感觉-批判性思考指南》</li>
+<li>《富兰克林自传》</li>
+<li>《直觉泵》</li>
+<li>《生命安宁：斯多葛哲学的生活艺术》</li>
+</ul>
+<p>小说</p>
+<ul>
+<li>《呐喊》了解中国</li>
+<li>《悲惨世界》人性</li>
+<li>《1984》自由</li>
+<li>《红与黑》</li>
+</ul>
+<p>传记</p>
+<ul>
+<li>《约翰克里斯多夫》</li>
+</ul>
+<p>社会</p>
+<ul>
+<li>《乡土中国》</li>
+<li>《邓小平时代》</li>
+<li>《论中国》</li>
+</ul>
+<p>文明</p>
+<ul>
+<li>《人类的故事》</li>
+<li>《人类的群星闪耀时》</li>
+<li>《文明之光》</li>
+<li>《世界观》</li>
+<li>《思维简史》</li>
+<li>《全球科技通史》</li>
+</ul>
+<p>逻辑</p>
+<ul>
+<li>《简单的逻辑学》[美] D.Q.麦克伦尼</li>
+<li>《逻辑学十五讲》</li>
+<li>《有用的逻辑学》</li>
+<li>《逻辑学原来很有趣》</li>
+<li>《逻辑十九讲》</li>
+<li>《简明逻辑学》</li>
+<li>《北大逻辑课》</li>
+</ul>
+<p>思维</p>
+<ul>
+<li>《学会提问》</li>
+<li>《批判性思维十讲：从探究实证到开放创造》</li>
+<li>《批判性思维工具》</li>
+<li>《独立思考》朱迪斯博斯</li>
+<li>《哈佛的六堂独立思考课》</li>
+<li>《七堂思维成长课》</li>
+<li>《模型思维》</li>
+<li>《思考，快与慢》</li>
+</ul>
+<p>哲学</p>
+<ul>
+<li>《打开：周濂的100堂西方哲学课》</li>
+<li>《人生智慧录》叔本华</li>
+<li>《宽容》</li>
+<li>《苏菲的世界》</li>
+<li>《生来彷徨：寻找人生意义的11堂哲学课》</li>
+<li>《哲学之美》</li>
+<li>《尼采的锤子：哲学大师的25种思维工具》</li>
+</ul>
+<p>科学</p>
+<ul>
+<li>《给世界的答案》</li>
+<li>《上帝与新物理学》</li>
+</ul>
+<p>数学</p>
+<ul>
+<li>《怎样解题》</li>
+<li>《魔鬼数学》</li>
+</ul>
+<p>人生</p>
+<ul>
+<li>《生命中最简单又最困难的事》</li>
+<li>《你要如何衡量你的人生》</li>
+<li>《品格之路》</li>
+<li>《千面英雄》</li>
+</ul>
+<p>心理学</p>
+<ul>
+<li>《少有人走的路》</li>
+<li>《了不起的我》</li>
+</ul>
+<p>技术</p>
+<ul>
+<li>《为什么：关于因果关系的新科学》</li>
+<li>《必然》</li>
+<li>《爆裂：未来社会的9大生存原则》</li>
+</ul>
+<p>其他</p>
+<ul>
+<li>《谢谢你迟到》</li>
+<li>《态度》</li>
+</ul>
+]]></content>
+  </entry>
+  <entry>
+    <title>2020-01-01-parenting</title>
+    <url>/2020/02/22/2020-01-01-parenting/</url>
+    <content><![CDATA[<h1 id="关于教育"><a href="#关于教育" class="headerlink" title="关于教育"></a>关于教育</h1><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">温和而坚定,</span><br><span class="line">信任是最好的期待</span><br></pre></td></tr></table></figure>]]></content>
   </entry>
 </search>
